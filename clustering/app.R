@@ -9,7 +9,7 @@ library(purrr)
 data("iris")
 ui <- dashboardPage(
     
-    dashboardHeader(title = "COVID19 Dashboard"),
+    dashboardHeader(title = "Clustering"),
     
     dashboardSidebar(
         sidebarMenu(
