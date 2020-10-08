@@ -5,6 +5,7 @@ library(shinyWidgets)
 library(ggplot2)
 library(dendextend)
 library(purrr)
+library(plotly)
 
 data("iris")
 ui <- dashboardPage(

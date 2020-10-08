@@ -1,0 +1,12 @@
+name: clustering
+title: clustering
+username:
+account: elkamel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2970009
+bundleId: 3716518
+url: https://elkamel.shinyapps.io/clustering/
+when: 1602153414.72563
+asMultiple: FALSE
+asStatic: FALSE
